@@ -1,4 +1,4 @@
-(ns online-judge-clojure.codewars.kyu.six.sum-of-parts
+(ns online-judge-clojure.codewars.kyu.six.sum-of-parts-test
   (:require [clojure.test :refer :all]
             [online-judge-clojure.codewars.kyu.six.sum-of-parts :refer :all]))
 
